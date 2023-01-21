@@ -69,34 +69,25 @@ For one-vs-all classifier method, please follow `one_vs_all_mobilenet_classifier
 For single classifier method, please follow `single_mobilenet_classifier.ipynb`. 
 
 
-# Foreground Mask & Trajectory Estimation & 3D Geometry Learning of HoleSpot 
+## Foreground Mask & Trajectory Estimation & 3D Geometry Learning of HoleSpot 
 
-## Results of Depth:
-![](images/depth0185.png)
-
-## Results of Trajectory On Scene 1:
-![](images/xz_0342.png)
-
-## Results of Trajectory On Scene 2:
-![](images/xz_0171.png)
-
-## Generating Mask for Foreground:
+### Generating Mask for Foreground:
 ```
 Python sky_mask.py
 ```
 
-## Training:
+### Training:
 ```
 sh start2train.sh
 # Trained weights will be saved to mono_model/log1/
 ```
 
-## Evaluating Depth Estimation 
+### Evaluating Depth Estimation 
 ```
 sh start2eval.sh
 ```
 
-## Evaluating Trajectory Estimation 
+### Evaluating Trajectory Estimation 
 ```
 sh start2eval_pose.sh
 ```
