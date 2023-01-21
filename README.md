@@ -61,7 +61,7 @@ python python detect.py --weights [your training exp pt file] --source [inferenc
 ## Pothole Severity Classification
 All relevant codes are contained in directory `severity_classifier_trainer`. 
 ### Download the data
-You may download the pothole severity raw data from: https://drive.google.com/file/d/18PsmxDq2wgA0hWQ27UJbVh71CoT1lwQG/view?usp=sharing and unzip into `severity_classifier_trainer/data`. 
+You may download the pothole severity raw training data from: https://drive.google.com/file/d/18PsmxDq2wgA0hWQ27UJbVh71CoT1lwQG/view?usp=sharing and the Theme 2 pothole evaluation data from: https://drive.google.com/file/d/1_JnsxcUYa2Iw3G3DBZKWpFZPdpREfnU3/view?usp=sharing. Unzip them into `severity_classifier_trainer/data`. 
 ### Training data generation
 For training data generation, please follow `training_data_creator.ipynb`. 
 ### Training and inferencing
