@@ -1,0 +1,5 @@
+# train
+python train.py
+
+# inference
+python detect.py --weights runs/train/exp/weights/best.pt --source inference_imgs/ --device 0 --save-txt

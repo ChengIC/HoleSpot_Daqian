@@ -1,0 +1,8 @@
+train: /home/rc/Desktop/yolov5/potholes/images/train
+val: /home/rc/Desktop/yolov5/potholes/images/val
+ 
+ 
+ 
+# Classes
+nc: 1  # number of classes
+names: ['potholes']  # class names
