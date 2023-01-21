@@ -4,7 +4,7 @@ Project HoleSpot for detecting Potholes with computer vision techniques
 
 ### Evaluation of Potholes 
 Store 2D detection, image classification and 3D reconsturction results into following folder structure. 
-.
+``` bash
 ├── evaluation_pipeline.ipynb
 ├── potholes_evaluation
 │   ├── scene1_e8Phytelu4
@@ -69,7 +69,7 @@ Store 2D detection, image classification and 3D reconsturction results into foll
     ├── scene1_e8Phytelu4
     └── scene2_AoU1tunj2p
 
-49 directories, 14 files
+```
 
 
 The evaluation pipeline is demonstrated in the jupyter notebook.
