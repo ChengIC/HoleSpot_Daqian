@@ -65,5 +65,5 @@ You may download the pothole severity raw data from: https://drive.google.com/fi
 ### Training data generation
 For training data generation, please follow `training_data_creator.ipynb`. 
 ### Training and inferencing
-For one-vs-all classifier training, please follow `one_vs_all_mobilenet_classifier.ipynb`. 
-For single classifier training, please follow `single_mobilenet_classifier.ipynb`. 
+For one-vs-all classifier method, please follow `one_vs_all_mobilenet_classifier.ipynb`. 
+For single classifier method, please follow `single_mobilenet_classifier.ipynb`. 
