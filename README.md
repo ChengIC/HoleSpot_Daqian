@@ -59,11 +59,11 @@ python python detect.py --weights [your training exp pt file] --source [inferenc
 ```
 
 ## Pothole Severity Classification
-All relevant codes are contained in directory `severity_classifier_trainer`. \
+All relevant codes are contained in directory `severity_classifier_trainer`. 
 ### Download the data
-You may download the pothole severity raw data from: https://drive.google.com/file/d/18PsmxDq2wgA0hWQ27UJbVh71CoT1lwQG/view?usp=sharing and unzip into `severity_classifier_trainer/data`. \
+You may download the pothole severity raw data from: https://drive.google.com/file/d/18PsmxDq2wgA0hWQ27UJbVh71CoT1lwQG/view?usp=sharing and unzip into `severity_classifier_trainer/data`. 
 ### Training data generation
-For training data generation, please follow `training_data_creator.ipynb`. \
+For training data generation, please follow `training_data_creator.ipynb`. 
 ### Training and inferencing
-For one-vs-all classifier training, please follow `one_vs_all_mobilenet_classifier.ipynb`. \
+For one-vs-all classifier training, please follow `one_vs_all_mobilenet_classifier.ipynb`. 
 For single classifier training, please follow `single_mobilenet_classifier.ipynb`. 
