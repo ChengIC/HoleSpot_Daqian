@@ -1,6 +1,9 @@
 # HoleSpot_Daqian
 
 Project HoleSpot for detecting Potholes with computer vision techniques
+#### Demo
+Unzip project folder for scene 1 to understand how pipeline works: https://drive.google.com/file/d/1ERv7pg27XqPUEJk167JbcKGC6bla8ZsP/view?usp=sharing
+
 
 ### Evaluation of Potholes 
 Store 2D detection, image classification and 3D reconsturction results into following folder structure. The evaluation pipeline is demonstrated in the jupyter notebook.
