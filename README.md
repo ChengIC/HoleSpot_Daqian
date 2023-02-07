@@ -58,7 +58,7 @@ You can add more labelled images and annotations into potholes image folder for 
 
 ### Inference 2D object detector
 ```
-python python detect.py --weights [your training exp pt file] --source [inferenced video frames] --device 0 --save-txt --save-conf --project [your saved folder]
+python detect.py --weights [your training exp pt file] --source [inferenced video frames] --device 0 --save-txt --save-conf --project [your saved folder]
 ```
 
 ## Pothole Severity Classification
