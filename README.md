@@ -4,7 +4,7 @@ Project HoleSpot for detecting Potholes with computer vision techniques (Prize W
 
 [Our Demo](https://www.youtube.com/watch?v=zf_WY1KBnTs&t=292s)
 
-![Prize Winning](Prize_Winning.jpg)
+![Prize Winning](Prize_winning.jpg)
 
 #### Team -- Daqian
 [Ziyi Zhu](https://www.linkedin.com/in/ziyizhu/) 
