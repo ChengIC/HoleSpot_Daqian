@@ -1,6 +1,18 @@
 # HoleSpot_Daqian
 
-Project HoleSpot for detecting Potholes with computer vision techniques
+Project HoleSpot for detecting Potholes with computer vision techniques (Prize Winning: 97,500SAR - around 20,000GBP)
+
+![Prize Winning](Prize_Winning.png)
+
+#### Team -- Daqian
+[Ziyi Zhu](https://www.linkedin.com/in/ziyizhu/) 
+
+[Junhui Yang](https://www.linkedin.com/in/junhui-yang/)
+
+[Kaichen Zhou](https://www.linkedin.com/in/kaichen-z-423579139/)
+
+[Ran Cheng](https://www.linkedin.com/in/ran-cheng-9438ic/)
+
 #### Demo
 Unzip project folder for scene 1 to understand how pipeline works: https://drive.google.com/file/d/1ERv7pg27XqPUEJk167JbcKGC6bla8ZsP/view?usp=sharing
 
