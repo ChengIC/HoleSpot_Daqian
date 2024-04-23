@@ -1,6 +1,8 @@
 # HoleSpot_Daqian
 
-Project HoleSpot for detecting Potholes with computer vision techniques (Prize Winning: 97,500SAR - around 20,000GBP)
+Project HoleSpot for detecting Potholes with computer vision techniques (Prize Winning: 97,500SAR - around 20,000GBP!)
+
+[Our Demo](https://www.youtube.com/watch?v=zf_WY1KBnTs&t=292s)
 
 ![Prize Winning](Prize_Winning.png)
 
